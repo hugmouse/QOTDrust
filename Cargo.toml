@@ -1,0 +1,5 @@
+[package]
+name = "qotd_rust"
+version = "1.0.0"
+authors = ["Mysh! <mysh@tuta.io>"]
+edition = "2018"
